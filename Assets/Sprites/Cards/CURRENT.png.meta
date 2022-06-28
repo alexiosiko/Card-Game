@@ -1,0 +1,1510 @@
+fileFormatVersion: 2
+guid: 6c7a93b15b30d274d96a0980e36dbb7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3895342147781116025
+    second: CURRENT_0A
+  - first:
+      213: -4972837552537705126
+    second: CURRENT_12K
+  - first:
+      213: 5958554355772098214
+    second: CURRENT_231
+  - first:
+      213: 1633820440479325377
+    second: CURRENT_347
+  - first:
+      213: 2900328819668781862
+    second: CURRENT_454
+  - first:
+      213: -4777005088338911650
+    second: CURRENT_56
+  - first:
+      213: 6767039008005704035
+    second: CURRENT_67
+  - first:
+      213: 6921837554972457949
+    second: CURRENT_78
+  - first:
+      213: -5679928002966482645
+    second: CURRENT_89
+  - first:
+      213: 4260824998655019015
+    second: CURRENT_91
+  - first:
+      213: 420579133872368099
+    second: CURRENT_10J
+  - first:
+      213: 3687674157315139687
+    second: CURRENT_11Q
+  - first:
+      213: 4516527635813067773
+    second: CURRENT_12K
+  - first:
+      213: -8708110072637636591
+    second: CURRENT_13E
+  - first:
+      213: -6556034670235603284
+    second: CURRENT_14A
+  - first:
+      213: 4508862323876727326
+    second: CURRENT_152
+  - first:
+      213: 9170484582242699882
+    second: CURRENT_163
+  - first:
+      213: -7170734046721955032
+    second: CURRENT_174
+  - first:
+      213: 5979476090032104802
+    second: CURRENT_185
+  - first:
+      213: 7038673316578416639
+    second: CURRENT_196
+  - first:
+      213: -4234925507483960180
+    second: CURRENT_207
+  - first:
+      213: 1418925338307658385
+    second: CURRENT_218
+  - first:
+      213: -2005891209971509605
+    second: CURRENT_229
+  - first:
+      213: -3801596836789550037
+    second: CURRENT_231
+  - first:
+      213: -8386516503982012847
+    second: CURRENT_24J
+  - first:
+      213: 2359467573141141297
+    second: CURRENT_25Q
+  - first:
+      213: 4148240286056943376
+    second: CURRENT_26K
+  - first:
+      213: 2067618987847739570
+    second: CURRENT_27B
+  - first:
+      213: 3536668934307007595
+    second: CURRENT_28A
+  - first:
+      213: 2499531788185233568
+    second: CURRENT_292
+  - first:
+      213: 2824141988422239190
+    second: CURRENT_303
+  - first:
+      213: -4263232824426413170
+    second: CURRENT_314
+  - first:
+      213: 5522926269160870533
+    second: CURRENT_325
+  - first:
+      213: 1880889937044107032
+    second: CURRENT_336
+  - first:
+      213: -1003695889034974604
+    second: CURRENT_347
+  - first:
+      213: -155359496527275701
+    second: CURRENT_358
+  - first:
+      213: -2269528018520084287
+    second: CURRENT_369
+  - first:
+      213: -6417240082827235732
+    second: CURRENT_371
+  - first:
+      213: -5072121058716276540
+    second: CURRENT_38J
+  - first:
+      213: 1156077360961839209
+    second: CURRENT_39Q
+  - first:
+      213: -8009235476547123227
+    second: CURRENT_40K
+  - first:
+      213: -8513837757397450745
+    second: CURRENT_41Z
+  - first:
+      213: -2694605546729512733
+    second: CURRENT_42A
+  - first:
+      213: -7428135195863647302
+    second: CURRENT_432
+  - first:
+      213: 8090519735598210215
+    second: CURRENT_443
+  - first:
+      213: 2234858948179255686
+    second: CURRENT_454
+  - first:
+      213: 6998800266700460596
+    second: CURRENT_465
+  - first:
+      213: 4753164657733217966
+    second: CURRENT_476
+  - first:
+      213: 4743634856052252839
+    second: CURRENT_487
+  - first:
+      213: 3405898948749055583
+    second: CURRENT_498
+  - first:
+      213: 4747994607336985425
+    second: CURRENT_509
+  - first:
+      213: 2212941028580973273
+    second: CURRENT_511
+  - first:
+      213: -5870929686449126007
+    second: CURRENT_52J
+  - first:
+      213: 6666926123485295259
+    second: CURRENT_53Q
+  - first:
+      213: 2744750552865709138
+    second: CURRENT_54K
+  - first:
+      213: 8258403125858972157
+    second: CURRENT_55Z
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CURRENT_0A
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f36ea74f6f0f9c0800000000000000
+      internalID: -3895342147781116025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 180
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55644bd79eecfab0800000000000000
+      internalID: -4972837552537705126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 180
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a607a6ed9901b250800000000000000
+      internalID: 5958554355772098214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_34
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 180
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccda85c80f7ca610800000000000000
+      internalID: 1633820440479325377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_45
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 180
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b8f24e1b9004820800000000000000
+      internalID: 2900328819668781862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_56
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e535b8e2ba4bdb0800000000000000
+      internalID: -4777005088338911650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_67
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 180
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369446ddf1a59ed50800000000000000
+      internalID: 6767039008005704035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_78
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 180
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb7711359e4f0060800000000000000
+      internalID: 6921837554972457949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_89
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 180
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2193692397dc21b0800000000000000
+      internalID: -5679928002966482645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_91
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 180
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708cfeee2cd712b30800000000000000
+      internalID: 4260824998655019015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_10J
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 180
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e967627e7236d500800000000000000
+      internalID: 420579133872368099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_11Q
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 180
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7682822ab104d2330800000000000000
+      internalID: 3687674157315139687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_12K
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 180
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb6fd684fdedae30800000000000000
+      internalID: 6076633558739341535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_13E
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 180
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110ce67c604962780800000000000000
+      internalID: -8708110072637636591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_14A
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae2679e3394405a0800000000000000
+      internalID: -6556034670235603284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_152
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 120
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a80d30562b29e30800000000000000
+      internalID: 4508862323876727326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_163
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 120
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ac5c6e32b144f70800000000000000
+      internalID: 9170484582242699882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_174
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 120
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ba65e606f6c7c90800000000000000
+      internalID: -7170734046721955032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_185
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2652e41c2dd5bf250800000000000000
+      internalID: 5979476090032104802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_196
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff75da4c6146ea160800000000000000
+      internalID: 7038673316578416639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_207
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 120
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c7d2440b58a35c0800000000000000
+      internalID: -4234925507483960180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_218
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 120
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19201a0d31901b310800000000000000
+      internalID: 1418925338307658385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_229
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 120
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96d19b7294a924e0800000000000000
+      internalID: -2005891209971509605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_231
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 120
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2409e391d30e3bc0800000000000000
+      internalID: -3759715212951998709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_24J
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 120
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156833d5cab1d9b80800000000000000
+      internalID: -8386516503982012847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_25Q
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 120
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137712cb1438eb020800000000000000
+      internalID: 2359467573141141297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_26K
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 120
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f8365df82819930800000000000000
+      internalID: 4148240286056943376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_27B
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 120
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b86485c388a1bc10800000000000000
+      internalID: 2067618987847739570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_28A
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c478d58a5c41130800000000000000
+      internalID: 3536668934307007595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_292
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 60
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8e3931bee10b220800000000000000
+      internalID: 2499531788185233568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_303
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 60
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d34c2fec2e513720800000000000000
+      internalID: 2824141988422239190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_314
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 60
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8347417554f5d4c0800000000000000
+      internalID: -4263232824426413170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_325
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 60
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582d10a1e2065ac40800000000000000
+      internalID: 5522926269160870533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_336
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fee1fae634a1a10800000000000000
+      internalID: 1880889937044107032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_347
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 60
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aec8f18e72212f0800000000000000
+      internalID: 9070516321300295105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_358
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 60
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49120d6c5d08ddf0800000000000000
+      internalID: -155359496527275701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_369
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 60
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c07058aa440180e0800000000000000
+      internalID: -2269528018520084287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_371
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 60
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e2fa8052261f6a0800000000000000
+      internalID: -6417240082827235732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_38J
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 60
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8207535c43c99b0800000000000000
+      internalID: -5072121058716276540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_39Q
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 59
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96060011c363b0010800000000000000
+      internalID: 1156077360961839209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_40K
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 60
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7c3f1d4ca79d090800000000000000
+      internalID: -8009235476547123227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_41Z
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 60
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700440bfaa5c8d980800000000000000
+      internalID: -8513837757397450745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_42A
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0e3692886da9ad0800000000000000
+      internalID: -2694605546729512733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_432
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb78f23566f9e890800000000000000
+      internalID: -7428135195863647302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_443
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac5e9885dc474070800000000000000
+      internalID: 8090519735598210215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_454
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681e3516f50d30f10800000000000000
+      internalID: -4842093786749326804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_465
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4321796e2cbb02160800000000000000
+      internalID: 6998800266700460596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_476
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae2127a212a6f140800000000000000
+      internalID: 4753164657733217966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_487
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0e72bc4c6c4d140800000000000000
+      internalID: 4743634856052252839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_498
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5650157c0f244f20800000000000000
+      internalID: 3405898948749055583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_509
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1539acd70f344e140800000000000000
+      internalID: 4747994607336985425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_511
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dad47d0422f5be10800000000000000
+      internalID: 2212941028580973273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_52J
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98587e14e84468ea0800000000000000
+      internalID: -5870929686449126007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_53Q
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92fc168cfda58c50800000000000000
+      internalID: 6666926123485295259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_54K
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c1e94e510571620800000000000000
+      internalID: 2744750552865709138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CURRENT_55Z
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1bcc853edbb9270800000000000000
+      internalID: 8258403125858972157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CURRENT_487: 4743634856052252839
+      CURRENT_28A: 3536668934307007595
+      CURRENT_38J: -5072121058716276540
+      CURRENT_511: 2212941028580973273
+      CURRENT_229: -2005891209971509605
+      CURRENT_358: -155359496527275701
+      CURRENT_12K: 6076633558739341535
+      CURRENT_24J: -8386516503982012847
+      CURRENT_26K: 4148240286056943376
+      CURRENT_56: -4777005088338911650
+      CURRENT_55Z: 8258403125858972157
+      CURRENT_371: -6417240082827235732
+      CURRENT_443: 8090519735598210215
+      CURRENT_45: 2900328819668781862
+      CURRENT_218: 1418925338307658385
+      CURRENT_476: 4753164657733217966
+      CURRENT_0A: -3895342147781116025
+      CURRENT_89: -5679928002966482645
+      CURRENT_292: 2499531788185233568
+      CURRENT_78: 6921837554972457949
+      CURRENT_196: 7038673316578416639
+      CURRENT_52J: -5870929686449126007
+      CURRENT_67: 6767039008005704035
+      CURRENT_11Q: 3687674157315139687
+      CURRENT_347: 9070516321300295105
+      CURRENT_54K: 2744750552865709138
+      CURRENT_509: 4747994607336985425
+      CURRENT_336: 1880889937044107032
+      CURRENT_41Z: -8513837757397450745
+      CURRENT_10J: 420579133872368099
+      CURRENT_174: -7170734046721955032
+      CURRENT_369: -2269528018520084287
+      CURRENT_25Q: 2359467573141141297
+      CURRENT_465: 6998800266700460596
+      CURRENT_23: 5958554355772098214
+      CURRENT_152: 4508862323876727326
+      CURRENT_432: -7428135195863647302
+      CURRENT_498: 3405898948749055583
+      CURRENT_454: -4842093786749326804
+      CURRENT_303: 2824141988422239190
+      CURRENT_40K: -8009235476547123227
+      CURRENT_53Q: 6666926123485295259
+      CURRENT_163: 9170484582242699882
+      CURRENT_314: -4263232824426413170
+      CURRENT_27B: 2067618987847739570
+      CURRENT_325: 5522926269160870533
+      CURRENT_185: 5979476090032104802
+      CURRENT_14A: -6556034670235603284
+      CURRENT_13E: -8708110072637636591
+      CURRENT_12: -4972837552537705126
+      CURRENT_42A: -2694605546729512733
+      CURRENT_231: -3759715212951998709
+      CURRENT_91: 4260824998655019015
+      CURRENT_34: 1633820440479325377
+      CURRENT_207: -4234925507483960180
+      CURRENT_39Q: 1156077360961839209
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
