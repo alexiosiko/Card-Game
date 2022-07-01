@@ -43,7 +43,7 @@ public class GameManager : MonoBehaviour
             hands[i].GetComponent<Hand>().AdjustCards();
         }
     }
-    IEnumerator Deal() {
+    public IEnumerator Deal() {
         Debug.Log("Dealing");
         while (deck.Count > 0) 
         {

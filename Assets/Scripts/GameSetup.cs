@@ -16,15 +16,12 @@ public class GameSetup : MonoBehaviour
         }
     }
     public void Begin() {
-        // Disable for NETWORKING
         AddHand();
         GetHands();
         turnManager.StartPlayer();
     }
-    void AddHand() {
+    public void AddHand() {
         GameObject hand = Instantiate<GameObject>(handPrefab, Vector3.zero, Quaternion.identity);
-        // Enable for NETWORKING
-        //NetworkServer.Spawn(handPrefab);
     }
     void GetHands() {
         hands = new List<Transform>();
