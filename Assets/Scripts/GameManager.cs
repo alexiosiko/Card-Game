@@ -47,27 +47,29 @@ public class GameManager : MonoBehaviour
         Debug.Log("Dealing");
         while (deck.Count > 0) 
         {
-        GameObject[] hands = GameObject.FindGameObjectsWithTag("Hand");
-        for (int i = 0; i < hands.Length; i++) {
-            if (deck.Count == 0) {
-                yield break; // if IEnumerator ? yield break : return
+            GameObject[] hands = GameObject.FindGameObjectsWithTag("Hand");
+            if (hands.Length == 0)
+                yield break;
+            for (int i = 0; i < hands.Length; i++) {
+                if (deck.Count == 0) {
+                    yield break; // if IEnumerator ? yield break : return
+                }
+                Transform parent = hands[i].transform;
+                GameObject card = Instantiate<GameObject>(cardParent, new Vector3(5, -5, 0), parent.transform.rotation);
+
+                float distance = Vector2.Distance(card.transform.position, parent.position);
+                card.transform.parent = parent;
+
+                // Draw face after some time
+                StartCoroutine(card.GetComponentInChildren<Card>().DrawFace());
+
+                // Adjust cards in current hand
+                hands[i].GetComponent<Hand>().AdjustCards();
+
+                // COROUTINE
+                yield return new WaitForSeconds(1 - dealSpeed);
+                }
             }
-            Transform parent = hands[i].transform;
-            GameObject card = Instantiate<GameObject>(cardParent, new Vector3(5, -5, 0), parent.transform.rotation);
-
-            float distance = Vector2.Distance(card.transform.position, parent.position);
-            card.transform.parent = parent;
-
-            // Draw face after some time
-            StartCoroutine(card.GetComponentInChildren<Card>().DrawFace());
-
-            // Adjust cards in current hand
-            hands[i].GetComponent<Hand>().AdjustCards();
-
-            // COROUTINE
-            yield return new WaitForSeconds(1 - dealSpeed);
-            }
-        }
     }
     public void ClearTable() {
         recentCards.Clear();
