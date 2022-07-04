@@ -8,6 +8,8 @@ public class Conditions : MonoBehaviour
     protected bool CanPlaceCards(List<Transform> cards) {
         if (cards[0].GetComponentInParent<Hand>().isPassed == true)
             return false;
+        
+        return true;
 
         highlighted = cards;
         recentCards = FindObjectOfType<GameManager>().recentCards;
