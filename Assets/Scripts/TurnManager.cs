@@ -46,6 +46,10 @@ public class TurnManager : MonoBehaviour
             currentPlayerIndex = hands.Count - 1;
         // end
         hands[currentPlayerIndex].GetComponent<Hand>().isTurn = true;
+
+        // If hand is empty, run this script again
+        if (hands[currentPlayerIndex].GetComponent<Hand>().transform.childCount <= 0)
+            NextPlayer();
         
         // Bell
         AdjustBell();
