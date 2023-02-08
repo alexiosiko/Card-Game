@@ -17,6 +17,7 @@ public class CardScriptableObject : ScriptableObject
         deck.Remove(face);
     }
     void GetValue() {
+        Debug.Log(face.name + " length: " + face.name.Length);  
         string temp = face.name[face.name.Length - 8].ToString();
         if (temp == "1")
             value = 10;

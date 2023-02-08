@@ -12,7 +12,7 @@ public class Hand : Conditions
     }
     void Start() {
         // Enable for NETWORKING
-        //FindObjectOfType<GameSetup>().Begin();
+        // FindObjectOfType<GameSetup>().Begin();
     }
     public void AdjustCards() {
         if (transform.childCount == 0) {

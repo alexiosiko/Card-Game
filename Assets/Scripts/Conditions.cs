@@ -9,9 +9,11 @@ public class Conditions : MonoBehaviour
         if (cards[0].GetComponentInParent<Hand>().isPassed == true)
             return false;
         
+        // This is there is no restrictions to the cards that can be played
         return true;
 
         highlighted = cards;
+        
         recentCards = FindObjectOfType<GameManager>().recentCards;
 
         if (recentCards.Count == 0)
